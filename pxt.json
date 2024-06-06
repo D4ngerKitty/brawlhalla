@@ -8,7 +8,9 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -20,5 +22,23 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "tsprj",
+    "palette": [
+        "#000000",
+        "#EFD0AE",
+        "#F6D937",
+        "#F8A153",
+        "#EF6361",
+        "#C7555E",
+        "#501733",
+        "#71323C",
+        "#975E5E",
+        "#755B6C",
+        "#808FAA",
+        "#C4BBB8",
+        "#74A8A2",
+        "#186F5E",
+        "#46A45F",
+        "#88AF92"
+    ]
 }
